@@ -1,0 +1,16 @@
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\bin\Release\dnsproxygui.exe.config
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\bin\Release\dnsproxygui.exe
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\bin\Release\dnsproxygui.pdb
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\obj\Release\dnsproxygui.csprojResolveAssemblyReference.cache
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\obj\Release\dnsproxygui.Properties.Resources.resources
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\obj\Release\dnsproxygui.csproj.GenerateResource.Cache
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\obj\Release\dnsproxygui.exe
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\obj\Release\dnsproxygui.pdb
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\bin\Release\dnsproxygui.exe.manifest
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\bin\Release\dnsproxygui.application
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\obj\Release\dnsproxygui.exe.manifest
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\obj\Release\dnsproxygui.application
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\obj\Release\dnsproxygui.mainForm.resources
+C:\Users\Sidharth P Siva\documents\visual studio 2013\Projects\dnsproxygui\WindowsFormsApplication2\obj\Release\dnsproxygui.outputform.resources
