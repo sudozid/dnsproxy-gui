@@ -1,0 +1,94 @@
+# Build Outputs
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user-specific files
+*.suo
+*.user
+*.sln.docstates
+*.v12.suo
+*.v11.suo
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+packages/
+*.nupkg
+# Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
+!packages/*/build/
+
+# Temporary files
+*.tmp
+*.cache
+*.temp
+
+# Certificate files
+*.pfx
+*.p12
+
+# ClickOnce directory
+publish/
+
+# Web publish logs
+PublishProfiles/
+
+# Others
+*.log
+*.xml
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.vspscc
+*.vssscc
+.builds
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Backup & report files
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Others
+[Bb]in
+[Oo]bj
+sql
+TestResults
+[Tt]est[Rr]esult*
+*.Cache
+ClientBin
+[Ss]tyle[Cc]op.*
+~$*
+*.dbmdl
+Generated_Code #added for RIA/Silverlight projects
+
+# Backup & report files from converting an old project file to a newer Visual Studio version
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
